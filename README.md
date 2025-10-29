@@ -18,7 +18,7 @@
 ✔️ Contact me\
 ✔️ GitHub Profile
 
-To view a live example, **[click here](https://mayanksoni2020.github.io/mayanksoniFolio)**.
+To view a live example, **[click here](https://mayanksoni2020.github.io/portfolio)**.
 
 
 ## Getting Started
