@@ -255,7 +255,7 @@ const bigProjects = {
           name: "Visit Website",
           url: "http://nextu.se/"
         }
-      ],
+      ]
     }
   ],
   display: false // Set false to hide this section, defaults to true

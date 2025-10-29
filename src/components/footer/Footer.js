@@ -12,7 +12,10 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           {emoji("Made with ❤️ by Mayank Soni")}
         </p>
-        <p className={isDark ? "dark-mode footer-text" : "footer-text"} style={{display: "none"}}>
+        <p
+          className={isDark ? "dark-mode footer-text" : "footer-text"}
+          style={{display: "none"}}
+        >
           Theme by{" "}
           <a
             href="https://github.com/mayanksoni2020/folio"
