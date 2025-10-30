@@ -209,7 +209,7 @@ const workExperiences = {
     {
       role: "Front-End - Software Developer Intern",
       company: "UpGuide Solutions",
-      companylogo: require("./assets/images/upGuideLogo.jpg"),
+      companylogo: require("./assets/images/upguideLogo.jpg"),
       date: "March 2021 – July 2021",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
