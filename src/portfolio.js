@@ -23,7 +23,7 @@ const greeting = {
   username: "Mayank Soni",
   title: "Hi all, I'm Mayank",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Angular / Nodejs and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and PWA applications with JavaScript / Reactjs / Angular / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1t7j__0Akw5v1t8VUAl0-m_gygfOLH_2x/view?usp=drivesdk", // Set to empty to hide the button
@@ -36,6 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/mayanksoni2020",
   linkedin: "https://www.linkedin.com/in/mynksoni/",
   gmail: "mayanksoni2020@gmail.com",
+  whatsapp: "https://wa.me/918787292169?text=Hi%20there!%20I%20want%20to%20know%20more.",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
